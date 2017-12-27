@@ -6,3 +6,5 @@ Welcome to Everyone to contribute. Now, it has over 3000 male names 2300 female 
 We still need to update with modern names.
 
 This is intended to serve as a dataset for hobbyists.
+
+# Visit https://l16h7.github.io to contribute easily.
